@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp_ist": "2026-11-26T23:23:54+05:30",
+    "event": "new_lead",
+    "lead_id": "LD-0006",
+    "details": "Created from WhatsApp (Coimbatore)"
+  },
+  {
+    "timestamp_ist": "2026-11-26T23:23:54+05:30",
+    "event": "dedup_update",
+    "lead_id": "LD-0006",
+    "details": "Merged duplicate phone +919876543210"
+  },
+  {
+    "timestamp_ist": "2026-11-27T10:04:47+05:30",
+    "event": "ai_draft_created",
+    "lead_id": "LD-0006",
+    "details": "Draft DR-0001 (pending_approval)"
+  },
+  {
+    "timestamp_ist": "2026-11-27T10:22:32+05:30",
+    "event": "draft_approved",
+    "lead_id": "LD-0006",
+    "details": "DR-0001 -> sent_dry_run by Vignesh"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:11:06+05:30",
+    "event": "sequence_toggle",
+    "lead_id": "L001",
+    "details": "active=True"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:11:12+05:30",
+    "event": "sequence_toggle",
+    "lead_id": "L001",
+    "details": "active=False"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:11:16+05:30",
+    "event": "sequence_toggle",
+    "lead_id": "L001",
+    "details": "active=True"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:11:23+05:30",
+    "event": "sequence_toggle",
+    "lead_id": "L001",
+    "details": "active=False"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:11:52+05:30",
+    "event": "ai_draft_created",
+    "lead_id": "L001",
+    "details": "Draft DR-0002 (pending_approval)"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:13:20+05:30",
+    "event": "ai_draft_created",
+    "lead_id": "L001",
+    "details": "Draft DR-0003 (pending_approval)"
+  },
+  {
+    "timestamp_ist": "2026-11-27T11:15:38+05:30",
+    "event": "draft_approved",
+    "lead_id": "L001",
+    "details": "DR-0002 -> sent_dry_run by Vignesh"
+  }
+]

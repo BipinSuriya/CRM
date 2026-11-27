@@ -1,0 +1,33 @@
+[
+  {
+    "draft_id": "DR-0001",
+    "lead_id": "LD-0006",
+    "channel": "WhatsApp",
+    "reply_lang": "tanglish",
+    "draft_text": "Kandippa start pannalam! Once initial prerequisites complete aana udane, go-live timeline is typically within 2 business days after prerequisites. Process start panna next steps discuss pannalama?",
+    "status": "sent_dry_run",
+    "created_at_ist": "2026-11-27T10:04:47+05:30",
+    "approved_by": "Vignesh",
+    "approved_at_ist": "2026-11-27T10:22:32+05:30"
+  },
+  {
+    "draft_id": "DR-0002",
+    "lead_id": "L001",
+    "channel": "WhatsApp",
+    "reply_lang": "tanglish",
+    "draft_text": "Vanakkam Karthik Traders! WhatsApp AI bot pricing and monthly plans pathi exact details therinjikka, please WhatsApp +91 90805 83767-la connect pannunga. Unga wholesale business requirements-ku etha best quote provide panrom!",
+    "status": "sent_dry_run",
+    "created_at_ist": "2026-11-27T11:11:52+05:30",
+    "approved_by": "Vignesh",
+    "approved_at_ist": "2026-11-27T11:15:38+05:30"
+  },
+  {
+    "draft_id": "DR-0003",
+    "lead_id": "L001",
+    "channel": "WhatsApp",
+    "reply_lang": "tanglish",
+    "draft_text": "Vanakkam Karthik Traders! WhatsApp AI bot setup & monthly pricing details pathi therinjuka, namma direct WhatsApp support number +91 90805 83767 ku connect pannunga. Requirements confirm aanathum, typically within 2 business days after prerequisites namma system-ah go-live pannidalam!",
+    "status": "pending_approval",
+    "created_at_ist": "2026-11-27T11:13:20+05:30"
+  }
+]

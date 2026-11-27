@@ -1,0 +1,30 @@
+[
+  {
+    "lead_id": "LD-0006",
+    "direction": "inbound",
+    "channel": "WhatsApp",
+    "text": "Vanakkam, WhatsApp AI bot pricing sollunga",
+    "timestamp_ist": "2026-11-26T23:23:54+05:30"
+  },
+  {
+    "lead_id": "LD-0006",
+    "direction": "inbound",
+    "channel": "WhatsApp",
+    "text": "Can we start next week?",
+    "timestamp_ist": "2026-11-26T23:23:54+05:30"
+  },
+  {
+    "lead_id": "LD-0006",
+    "direction": "outbound_sent_dry_run",
+    "channel": "WhatsApp",
+    "text": "Kandippa start pannalam! Once initial prerequisites complete aana udane, go-live timeline is typically within 2 business days after prerequisites. Process start panna next steps discuss pannalama?",
+    "timestamp_ist": "2026-11-27T10:22:32+05:30"
+  },
+  {
+    "lead_id": "L001",
+    "direction": "outbound_sent_dry_run",
+    "channel": "WhatsApp",
+    "text": "Vanakkam Karthik Traders! WhatsApp AI bot pricing and monthly plans pathi exact details therinjikka, please WhatsApp +91 90805 83767-la connect pannunga. Unga wholesale business requirements-ku etha best quote provide panrom!",
+    "timestamp_ist": "2026-11-27T11:15:38+05:30"
+  }
+]
